@@ -1,4 +1,4 @@
-🚲 Practice 01 — Bicycle Sales Dashboard (2019–2020)
+## 🚲 Practice 01 — Bicycle Sales Dashboard (2019–2020)
 
 📄 Dataset Description
 This practice uses a fictional dataset commonly used in Power BI courses.
@@ -15,7 +15,7 @@ Net and gross sales
 Quantities sold
 This dataset is for educational purposes only.
 
-🎯 Objective of the Practice
+## 🎯 Objective of the Practice
 
 The goal of this practice is to build a Power BI dashboard capable of:
 Analyzing sales trends by year and month
@@ -24,7 +24,7 @@ Comparing product categories
 Displaying quantities sold by product type
 Understanding customer segments (wholesalers vs distributors)
 
-📊 Visuals Included in the Report
+## 📊 Visuals Included in the Report
 
 Line chart: Net sales by year and month
 Bar chart: Units sold by product type
@@ -32,14 +32,14 @@ KPI cards: Total sales, Average sale, Units sold
 Donut chart: Sales by customer type
 Descriptive titles and formatted report background
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 Power BI Desktop
 Power Query for basic cleaning
 Calculated columns (Year, Month, Month Name)
 Custom formatting and color themes
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 practice_01_bicycle_sales/
 
