@@ -1,18 +1,26 @@
 ## 🚲 Practice 01 — Bicycle Sales Dashboard (2019–2020)
 
 📄 Dataset Description
+
 This practice uses a fictional dataset commonly used in Power BI courses.
 It simulates sales transactions for a bicycle company during 2019 and 2020, including different types of bicycles, accessories, and replacement parts.
 
 The dataset contains:
 
 Products (bikes, helmets, accessories, parts)
+
 Product families
+
 Customers and sales representatives
+
 Countries, communities, provinces, zones
+
 Date information (day, month, quarter, year)
+
 Net and gross sales
+
 Quantities sold
+
 This dataset is for educational purposes only.
 
 ## 🎯 Objective of the Practice
