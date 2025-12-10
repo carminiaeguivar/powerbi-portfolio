@@ -40,7 +40,9 @@ Calculated columns (Year, Month, Month Name)
 Custom formatting and color themes
 
 📁 Folder Structure
+
 practice_01_bicycle_sales/
+
 │── dataset.xlsx
 │── practice_01.pbix
 │── dashboard_overview.png
@@ -48,4 +50,4 @@ practice_01_bicycle_sales/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](https://github.com/carminiaeguivar/powerbi-portfolio/blob/main/practicas/practice_01_bicycle_sales/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
