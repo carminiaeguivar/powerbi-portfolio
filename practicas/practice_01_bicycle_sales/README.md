@@ -42,14 +42,13 @@ Calculated columns (Year, Month, Month Name)
 Custom formatting and color themes
 
 ## 📁 Folder Structure
-
+```
 practice_01_bicycle_sales/
-
 │── dataset.xlsx
 │── practice_01.pbix
 │── dashboard_overview.png
 │── README.md
-
+```
 ## 📸 Dashboard Preview
 
 ![Dashboard Overview](dashboard_overview.png)
